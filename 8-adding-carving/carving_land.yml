@@ -9,7 +9,7 @@ carving:
     variables:
 
       carvingThreshold: 0.55 # Higher = less carving
-      carvingMinHeight: -63
+      carvingMinHeight: -62
       carvingMaxHeight: 140
       carvingCap: 1 # Caps the amount of base carving
 
